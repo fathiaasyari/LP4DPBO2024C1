@@ -54,6 +54,8 @@ dan peruntukan yang berbeda pula.
 - Data kendaraan ditampilkan dalam bentuk list(cpp) dan tabel (pyhton) sesuai dengan areanya (garasi/parkinglot)
 
 # Screenshoot Program (Python)
+### Cara run
+g++ main.cpp Vehicle.cpp Car.cpp Motorcycle.cpp Garage.cpp ParkingLot.cpp -o test
 ![Screenshot 2024-02-28 232243.png](https://github.com/fathiaasyari/LP4DPBO2024C1/blob/75ac44b24f30567d046f88ba87b7f07c1a760a76/python/screenshoot/Screenshot%202024-02-28%20232243.png)
 
 
